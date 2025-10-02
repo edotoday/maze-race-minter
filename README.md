@@ -1,6 +1,6 @@
 <h1 align="center">Maze Race Minter</h1>
 
-<h2>О боте</h2>
+О боте
 Минтит 5 нфт от https://race.cryptomaze.app//</br>
 
 * Читаем конфиг и выбираем режим
